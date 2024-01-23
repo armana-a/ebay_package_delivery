@@ -48,3 +48,5 @@ For detailed implementation and code, refer to the provided R script files.
 2. Install the required R packages using `install.packages()`.
 3. Run the R scripts to reproduce the data preprocessing, exploratory analysis, and model training process.
 
+> This repo is for STAT 5600
+
